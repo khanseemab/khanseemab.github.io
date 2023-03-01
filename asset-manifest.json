@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/myPortfolioSite/static/css/main.4edf7439.css",
-    "main.js": "/myPortfolioSite/static/js/main.baf077ef.js",
-    "static/media/7038048-purple-dark-smoke.jpg": "/myPortfolioSite/static/media/7038048-purple-dark-smoke.22739b18bd7434f04840.jpg",
-    "static/media/web-profileimage.jpg": "/myPortfolioSite/static/media/web-profileimage.9ff3dba2b27d7ac7802a.jpg",
-    "static/media/Resume.pdf": "/myPortfolioSite/static/media/Resume.4dd99ff1d1439773c159.pdf",
-    "static/media/clock.png": "/myPortfolioSite/static/media/clock.5e23302fbcdab3255e89.png",
-    "static/media/paymentform.png": "/myPortfolioSite/static/media/paymentform.1711878d2e60abb313dd.png",
-    "index.html": "/myPortfolioSite/index.html",
-    "main.4edf7439.css.map": "/myPortfolioSite/static/css/main.4edf7439.css.map",
-    "main.baf077ef.js.map": "/myPortfolioSite/static/js/main.baf077ef.js.map"
+    "main.css": "/static/css/main.367b75d4.css",
+    "main.js": "/static/js/main.1a901211.js",
+    "static/media/7038048-purple-dark-smoke.jpg": "/static/media/7038048-purple-dark-smoke.22739b18bd7434f04840.jpg",
+    "static/media/web-profileimage.jpg": "/static/media/web-profileimage.9ff3dba2b27d7ac7802a.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.4dd99ff1d1439773c159.pdf",
+    "static/media/clock.png": "/static/media/clock.5e23302fbcdab3255e89.png",
+    "static/media/paymentform.png": "/static/media/paymentform.1711878d2e60abb313dd.png",
+    "index.html": "/index.html",
+    "main.367b75d4.css.map": "/static/css/main.367b75d4.css.map",
+    "main.1a901211.js.map": "/static/js/main.1a901211.js.map"
   },
   "entrypoints": [
-    "static/css/main.4edf7439.css",
-    "static/js/main.baf077ef.js"
+    "static/css/main.367b75d4.css",
+    "static/js/main.1a901211.js"
   ]
 }
